@@ -25,8 +25,6 @@
 
 ##### AWS SageMaker Notebooks were used for developing, testing, and deploying the RAG solution in a cloud-based, scalable environment. It provided an ideal workspace to run Python-based LangChain scripts, integrate Bedrock models, and test document retrieval functionalities.
 
-
-
 ### Implementation Steps
 
 #### 1. Setting Up AWS Services:
@@ -66,3 +64,12 @@
 ##### - Used Claude 3 Sonnet to generate SQL queries dynamically based on natural language input.
 
 ##### - The system retrieved structured data from the database, enhancing the precision of response
+
+#### Final Outcome and Key Achievements
+
+##### By the end of this project, we successfully built, tested, and deployed a RAG system that:
+##### ✅ Retrieves relevant documents from PDFs and databases.
+##### ✅ Generates accurate, context-aware responses using Claude 3 Sonnet.
+##### ✅ Uses LangChain to handle NLP integration and document retrieval.
+##### ✅ It leverages LangSmith for debugging and monitoring performance.
+##### ✅ Processes structured and unstructured data effectively for business decision-making.
